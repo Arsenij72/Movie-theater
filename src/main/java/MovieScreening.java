@@ -13,12 +13,10 @@ public class MovieScreening {
     }
 
 
+    //  @Override
+    // public String toString() {
 
 
-    @Override
-    public String toString() {
-
-
-    }
 }
+
 

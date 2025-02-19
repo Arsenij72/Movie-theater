@@ -10,9 +10,12 @@ public class VipTicket extends Ticket {
         this.seatNumber = seatNumber;
         this.ticketPrice = 20.0;
         this.extraBenefits = extraBenefits;
-
+        getPrice();
 
     }
+
+  
+
 
     @Override
     String getPrice() {
